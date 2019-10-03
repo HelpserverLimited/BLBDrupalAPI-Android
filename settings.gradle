@@ -1,2 +1,0 @@
-include ':app', ':blbdrupalapi2'
-rootProject.name='BLBDrupalAPI'
