@@ -7,6 +7,7 @@ class Notification {
     }
 
     fun sendTokenToDrupal(string: String): String {
-        return "$TAG - hello world"
+        return "$TAG - hello world - $string"
     }
+
 }
